@@ -432,7 +432,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **MongoDB Atlas** for free cloud database hosting
 - **Anthropic** for Claude AI assistance during development
 - **Tailwind CSS** for the amazing utility-first framework
-- **Build w/ Gemini** for the opportunity and inspiration
+- **Build w/ Gemini and MongoDB** for the opportunity and inspiration
 
 ---
 
@@ -470,7 +470,7 @@ If this project helped you, please give it a ⭐ on GitHub!
 
 <div align="center">
 
-**Built for Build w/Gemini**
+**Built for Build w/ Gemini and MongoDB**
 
 Made by Vaibhavi Shree | 2025
 
