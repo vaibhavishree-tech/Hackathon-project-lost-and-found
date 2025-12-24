@@ -422,7 +422,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **[Your Name]**
 - GitHub: [@vaibhavishree-tech](https://github.com/@vaibhavishree-tech)
-- Email: vaibhavishree27@gmail.com, rounakroy4513@gmail.com
+- Email: vaibhavishree27@gmail.com
 
 ---
 
@@ -472,6 +472,6 @@ If this project helped you, please give it a ⭐ on GitHub!
 
 **Built for Build w/Gemini**
 
-Made by [Vaibhavi Shree and Rounak Roy] | 2025
+Made by [Vaibhavi Shree] | 2025
 
 </div>
