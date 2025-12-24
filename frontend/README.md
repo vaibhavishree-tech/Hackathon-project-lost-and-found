@@ -432,7 +432,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **MongoDB Atlas** for free cloud database hosting
 - **Anthropic** for Claude AI assistance during development
 - **Tailwind CSS** for the amazing utility-first framework
-- **[Hackathon Name]** for the opportunity and inspiration
+- **Build w/ Gemini** for the opportunity and inspiration
 
 ---
 
@@ -472,6 +472,6 @@ If this project helped you, please give it a ⭐ on GitHub!
 
 **Built for Build w/Gemini**
 
-Made by [Vaibhavi Shree] | 2025
+Made by Vaibhavi Shree | 2025
 
 </div>
