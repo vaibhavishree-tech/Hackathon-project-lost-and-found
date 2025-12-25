@@ -418,9 +418,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Authors
+## 👨‍💻 Author
 
-**[Your Name]**
+**Vaibhavi Shree**
 - GitHub: [@vaibhavishree-tech](https://github.com/@vaibhavishree-tech)
 - Email: vaibhavishree27@gmail.com
 
