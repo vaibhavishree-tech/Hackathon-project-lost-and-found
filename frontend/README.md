@@ -2,6 +2,11 @@
 
 # 🔍 Lost & Found - AI-Powered Recovery System
 
+[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://lost-and-found-fs0zv4wcd-vaibhavishree-techs-projects.vercel.app/)
+[![Backend](https://img.shields.io/badge/backend-render-blueviolet)](https://lost-and-found-xusi.onrender.com/)
+
+**🌐 Live Demo:** https://lost-and-found-fs0zv4wcd-vaibhavishree-techs-projects.vercel.app/
+**⚠️ Note: First load may take 30 seconds as the backend wakes up from sleep mode**
 <div align="center">
 
 ![Lost & Found Banner](https://img.shields.io/badge/Build%20With-Gemini%20API-blue?style=for-the-badge&logo=google)
@@ -379,19 +384,19 @@ If Gemini API is unavailable, the system gracefully falls back to regex-based ke
 
 ## 🔮 Future Enhancements
 
-### Phase 1 (Next Month)
+### Phase 1
 - [ ] Direct image upload with cloud storage (Cloudinary/AWS S3)
 - [ ] Email notifications for matches
 - [ ] User profile management
 - [ ] Item edit/delete functionality
 
-### Phase 2 (Next Quarter)
+### Phase 2
 - [ ] Real-time updates with WebSockets
 - [ ] Mobile app (React Native)
 - [ ] Push notifications
 - [ ] Admin dashboard for moderation
 
-### Phase 3 (Long-term)
+### Phase 3
 - [ ] Multi-modal AI (image recognition with Gemini Vision)
 - [ ] Geolocation-based search
 - [ ] QR code generation for items
@@ -455,8 +460,6 @@ Through this project, I learned:
 - RESTful API design principles
 - JWT authentication implementation
 - MongoDB schema design and relationships
-- Prompt engineering for LLMs
-- Modern React patterns (hooks, state management)
 - Responsive UI design with Tailwind CSS
 
 ---
