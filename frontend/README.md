@@ -6,7 +6,10 @@
 [![Backend](https://img.shields.io/badge/backend-render-blueviolet)](https://lost-and-found-xusi.onrender.com/)
 
 **🌐 Live Demo:** https://lost-and-found-fs0zv4wcd-vaibhavishree-techs-projects.vercel.app/
+
+
 **⚠️ Note: First load may take 30 seconds as the backend wakes up from sleep mode**
+
 <div align="center">
 
 ![Lost & Found Banner](https://img.shields.io/badge/Build%20With-Gemini%20API-blue?style=for-the-badge&logo=google)
