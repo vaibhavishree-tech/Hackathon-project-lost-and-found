@@ -11,8 +11,6 @@
 
 **A full-stack lost and found platform for campuses. You can search it in plain English, and Google Gemini helps match items.**
 
-[Overview](#-overview) · [Features](#-features) · [Tech Stack](#️-tech-stack) · [Architecture](#️-architecture) · [Roadmap](#-roadmap)
-
 </div>
 
 ---
